@@ -82,6 +82,10 @@ namespace Intuit.QuickBase.Core
         /// URL-Link
         /// </summary>
         url,
+        /// <summary>
+        /// Multi User Field
+        /// </summary>
+        multiuserid,
 
         // TODO: To be deleted.
         timestamp,
